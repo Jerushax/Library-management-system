@@ -19,7 +19,7 @@ It provides functionalities for both administrators and members, allowing them t
 2. **📖 View All Books**  
    *Function:* `display_all_books()`  
    - Displays a **comprehensive list** of all books available in the library.
-   - 
+     
 3. **👥 Manage Members**  
    *Functions:* `add_new_member()`, `delete_member()`  
    - Enables administrators to **add** new members and **remove** existing members from the system.
@@ -69,6 +69,5 @@ Contributions are welcome! Feel free to **fork the repository**, create **featur
 
 ---
 
-## 📩 Contact
-For any questions or issues, please **open an issue** in the repository or contact the **project maintainer**.
+Jerusha
 
