@@ -1,14 +1,14 @@
-## 🖥️ System Requirements
+ System Requirements
 
-### 📌 Hardware Requirements
+📌 Hardware Requirements
 
-- **Processor:** x86 64-bit CPU (Intel Core i3 / AMD Ryzen 3 or higher)
-- **RAM:** 4 GB (minimum), 8 GB (recommended)
-- **Storage:** 5 GB free disk space
+- Processor: x86 64-bit CPU (Intel Core i3 / AMD Ryzen 3 or higher)
+- RAM: 4 GB (minimum), 8 GB (recommended)
+- Storage: 5 GB free disk space
 
-### 📌 Software Requirements
+📌 Software Requirements
 
-- **Operating System:** Windows 7 or higher, macOS, or Linux
-- **Database:** MySQL Server 5.5 or higher (Recommended: MySQL 8.0)
-- **Programming:** Python 3.8 or higher
-- **IDE (Any of the following):** Python IDLE, PyCharm, VS Code, or Spyder
+- Operating System: Windows 7 or higher, macOS, or Linux
+- Database: MySQL Server 5.5 or higher (Recommended: MySQL 8.0)
+- Programming:Python 3.8 or higher
+- IDE (Any of the following): Python IDLE, PyCharm, VS Code, or Spyder
