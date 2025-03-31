@@ -2,7 +2,7 @@ import mysql.connector as mycon
 from datetime import datetime, timedelta
 
 
-con = mycon.connect(host="localhost", user="root", password="ahsurej", database="jeru")
+con = mycon.connect(host="localhost", user="root", password="YOUR_PASSWORD", database="YOUR_DATABASE_NAME")
 cur = con.cursor()
 
 cur.execute(
