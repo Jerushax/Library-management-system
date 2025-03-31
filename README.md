@@ -11,16 +11,16 @@ It provides functionalities for both administrators and members, allowing them t
 - **Admin** has full control over the library system, including managing books and members.
 - **User** can log in using their **Member ID** and access library services accordingly.
 
-### 🛠️ Admin Menu
-      1. **📚 Add Book**  
+###  Admin Menu
+1. **📚 Add Book**  
    *Function:* `add_new_book()`  
    - Allows administrators to add new books by entering details such as **title** and **author**.
 
- 2. **📖 View All Books**  
+2. **📖 View All Books**  
    *Function:* `display_all_books()`  
    - Displays a **comprehensive list** of all books available in the library.
-
-    3. **👥 Manage Members**  
+   - 
+3. **👥 Manage Members**  
    *Functions:* `add_new_member()`, `delete_member()`  
    - Enables administrators to **add** new members and **remove** existing members from the system.
 
@@ -49,21 +49,7 @@ It provides functionalities for both administrators and members, allowing them t
    *Function:* `display_books_taken_by_member()`  
    - Members can check their **borrowing history**, including **book titles, authors, issue dates, and return dates**.
 
----
 
-## ⚙️ Installation
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/library-management-system.git
-   ```
-2. **Navigate to the project directory:**
-   ```sh
-   cd library-management-system
-   ```
-3. **Run the program:**
-   ```sh
-   python main.py
-   ```
 
 ---
 
