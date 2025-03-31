@@ -12,6 +12,7 @@ It provides functionalities for both administrators and members, allowing them t
 - **User** can log in using their **Member ID** and access library services accordingly.
 
 ###  Admin Menu
+![Admin Dashboard](screenshots/admin_dashboard.png)
 1. **📚 Add Book**  
    *Function:* `add_new_book()`  
    - Allows administrators to add new books by entering details such as **title** and **author**.
